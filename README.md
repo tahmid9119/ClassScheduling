@@ -7,8 +7,8 @@
 
 
 # Introduction 
-We have taken First Come First Serve Scheduling,  Round Robin and Shortest Job First Scheduling.
-To balance the workload we have modified the FCFS scheduling, then created other two which are RR and SJF respectively.
+We have taken Round Robin and Shortest Job First Scheduling.
+
 
 # Consideration 
 Here we are considering that arrival time for all processes is 0.
